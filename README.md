@@ -17,7 +17,6 @@
 
 
 #### Connect with me:
-
 - <a href="https://www.linkedin.com/in/mmonu01/">Linkedin</a>
 - <a href="https://mmonu01.github.io/">Portfolio</a>
 
