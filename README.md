@@ -33,11 +33,15 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mmonu01"/>
 </p>
 
+<br/>
 
 ## <p align="center">Github Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmonu01&theme=default&show_icons=true"/>    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmonu01&theme=default&background=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmonu01&theme=tokyonight&show_icons=true"/>
+ </p>
+ <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmonu01&theme=tokyonight&background=default"/>
  </p>
 
 
