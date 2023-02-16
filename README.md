@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mmonu01&color=orange)
+<br/>
 # <p align="center"> Hi there 👋, I'm Md Monu</p>
 ### <p align="center"> Full Stack Web Developer </p>
 
@@ -7,13 +9,12 @@
 
 
 
- About me
+ #### About me
 
 - 🌱 I’m currently learning MERN STACK
 - 💬 Ask me about HTML,CSS,JavaScript,React,Redux,Nodejs,Expressjs,Mongodb
 - 📫 How to reach me: mdmonu2021@gmail.com
 - :page_facing_up: Know more about me: <a href="https://drive.google.com/file/d/11wLwI3P-ywaIvOsCGf0TOaRKZeStk-gU/view?usp=share_link">Resume</a>
-
 
 
 #### Connect with me:
