@@ -44,10 +44,10 @@
 ## <p align="center">Github Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmonu01&theme=transparent&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmonu01&show_icons=true&theme=transparent"/>
  </p>
  <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmonu01&theme=tokyonight&background=transparent"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmonu01&background=transparent&theme=tokyonight"/>
  </p>
 
 
