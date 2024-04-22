@@ -30,7 +30,7 @@
 
 #### Tech Stacks:
 
-HTML | CSS | Tailwind | JavaScript | React | Vite | Redux | Redux toolkit | Express.js | MongoDB | Node.js
+HTML | CSS | Tailwind | JavaScript | React | Vite | Redux | Redux toolkit | Express.js | Socket.io | MongoDB | Node.js
 
 ## <p align="center">Achievements</p>
 
