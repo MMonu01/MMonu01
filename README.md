@@ -17,7 +17,7 @@
 
  #### About me
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱 MERN STACK Developer
 - 💬 Ask me about HTML,CSS,JavaScript,React,Redux,Nodejs,Expressjs,Mongodb
 - 📫 How to reach me: mdmonu2021@gmail.com
 - :page_facing_up: Know more about me: <a href="https://drive.google.com/file/d/11wLwI3P-ywaIvOsCGf0TOaRKZeStk-gU/view?usp=share_link">Resume</a>
